@@ -1,0 +1,42 @@
+how are you ?
+great! how are you doing?(완전 좋을 때)
+pretty good. what about you?(좋을 때)
+not too good. how about you?(그다지 좋지 않을 때)
+not much. how have you been? (별일 없어, 넌 어떻게 지냈어?)
+
+what do you do?
+
+I'm a robotics engineer.
+I'm majoring in control engineering. 
+since I was in university. I made a humunoid robot. 
+but now I develop some equipments. one of them is taking pictures and getting GPS datas at the same time. this data is used by the application named "road view"
+My main job is programming applications. sometimes I design circuit.
+I like my job. but nowadays I am interested in other part. It's machine learning I think It's really funny branch. I study it and I have a plan to move a related company. after roughly 1 year.
+ 
+where do you live?
+
+I live in kimpo jangidong.
+It takes me roughly fifteen minutes to get here by my car.
+It's not far. 
+I think It's really calm near my house. because there are no bar or pub.
+It's a little bad but It's fine.  
+there is a park front of my house. but I have never gone. because It's cold.  
+the wether will be warm. I have to go the park. 
+
+what did you do last weekend?
+
+It was about nothing in particular.
+I got up late. because the day was weekend. 
+as usual, I went to the gym for playing squash. 
+after the workout, I met my senior that neighborhood.
+we went to a restaurant for eating "samgyupsal"
+it tasted really great. It was good weekend.
+
+How do you spend your free time?
+
+I spend most of free time watching videos related to history.
+I like learning about complex relationship with contries. I especially like war history. I often try to look for this kind of movies or dramas. 
+actually, I have watched almost historical dramas in korea. 
+but I don't now about history well. I have poor memory. 
+I think It's good ability of mine. because whenever I watch a movie or drama, I feel like It's new.
+  
